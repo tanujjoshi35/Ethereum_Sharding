@@ -1,0 +1,25 @@
+{
+   "alloc": {
+    "0x7fb99b81863e82b6fbd69c191157c6d9d34dead3": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x5de1e73b0cbf16b71a3b082488c30aa05f3d3974": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0xe1fab4906a08fa0d7f1c38fa7bb3655809e0c40c": {
+      "balance": "1000000000000000000000000000"
+    },
+    "0x3cf197179c30bb12f13a6de30de4241c019cf00e": {
+      "balance": "1000000000000000000000000000"
+    }
+  },
+  "config": {
+    "chainId": 12345,
+    "homesteadBlock": 0,
+    "eip155Block": 0,
+    "eip158Block": 0
+  },
+  "difficulty": "200",
+  "gasLimit": "210000000000"
+}
+
